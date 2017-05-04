@@ -259,3 +259,15 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/*
+!Library/*.asset
+InspectorExpandedItems.asset
+Assets/BabyFrameWork
+Assets/BabyFrameWork.meta
+*.apk
+ZTest
+ZTest.meta
